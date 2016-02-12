@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Eames]]></title>
+        <description><![CDATA[Eames]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 11 Feb 2016 20:14:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Classic Eames Lounge Chair]]></title>
+            <description><![CDATA[<article><h1>The Classic Eames Lounge Chair</h1><p>Furniture might not be at the top of your list for things to gush over, but the Eames Lounge chair is enough to make anyone take a second glance. </p></article>]]></description>
+            <link>undefinedthe-classic-eames-lounge-chair/index.html</link>
+            <guid isPermaLink="false">0dce4ea6-f2d9-43c1-86b0-0d4cc7813fdc</guid>
+            <pubDate>Thu, 11 Feb 2016 20:14:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
